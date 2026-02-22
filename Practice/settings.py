@@ -1,0 +1,6 @@
+class Settings:
+    '''A class to store all settings for Alien Invasion.'''
+    def __init__(self):
+        self.width = 1200
+        self.height = 800
+        self.bg_color = (230, 230, 230)
